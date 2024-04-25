@@ -1,11 +1,5 @@
-# cs360---artifact-1
+Milestone 2 - Software Design/Engineering (artifact 1)
 
-CS-499
-Milestone 2 - Software Design/Engineering
-SNHU
-Mohamed Babiker
-
-Milestone 2
 
 The selected artifact is a Java-based mobile application created as part of the CS360 course around a semester ago. This course focused on developing a full-stack mobile application using simple methods to create a fully working application.
 
